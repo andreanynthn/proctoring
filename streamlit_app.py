@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1t-XWlRzxFtAck48FXRNecdxKJDPSnV7m
 """
 
-from streamlit_webrtc import VideoTransformerBase, webrtc_streamer, ClientSettings
+!pip install streamlit-webrtc
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile webapp.py
